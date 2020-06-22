@@ -1,0 +1,1 @@
+g++ white-squared-frame.cpp `Magick++-config --cxxflags --cppflags` `Magick++-config --ldflags --libs` -O2 -o wsf 
